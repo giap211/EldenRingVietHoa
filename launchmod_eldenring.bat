@@ -1,0 +1,1 @@
+.\Modengine-TapHoaNam94.exe -t er -c .\config_eldenring.toml

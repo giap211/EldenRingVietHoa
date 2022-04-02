@@ -1,0 +1,27 @@
+[2022-03-26 23:56:12.973] [modengine] [info] ModEngine version 2.0.0-763f011df9897d29661e83f6377b5cb4f39b4b2e initializing for Elden Ring
+[2022-03-26 23:56:12.973] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2022-03-26 23:56:12.973] [modengine] [info] Main thread ID: 244
+[2022-03-26 23:56:12.975] [modengine] [info] Enabling extension base
+[2022-03-26 23:56:12.975] [modengine] [info] Enabled extension base
+[2022-03-26 23:56:12.975] [modengine] [info] Enabling extension mod_loader
+[2022-03-26 23:56:12.975] [modengine] [info] Installing mod location mod
+[2022-03-26 23:56:12.975] [modengine] [info] Resolved mod path to C:\Users\katal\Downloads\modengine-763f011df9897d29661e83f6377b5cb4f39b4b2e\ModEngine-2.0.0.1-win64\mod
+[2022-03-26 23:56:12.975] [modengine] [info] Enabled extension mod_loader
+[2022-03-26 23:56:12.975] [modengine] [info] Enabling extension scylla_hide
+[2022-03-26 23:56:12.975] [modengine] [info] Found valid ScyllaHide injector. Injecting into game.
+[2022-03-26 23:56:12.975] [modengine] [info] Starting ScyllaHide injector: C:\Users\katal\Downloads\modengine-763f011df9897d29661e83f6377b5cb4f39b4b2e\ModEngine-2.0.0.1-win64\modengine2\tools\scyllahide\InjectorCLIx64.exe pid:30848 ./HookLibraryx64.dll nowait
+[2022-03-26 23:56:13.829] [modengine] [info] Launched Scyllahide process.
+[2022-03-26 23:56:13.927] [modengine] [info] ScyllaHide successfully injected
+[2022-03-26 23:56:13.927] [modengine] [info] Enabled extension scylla_hide
+[2022-03-26 23:56:13.970] [modengine] [info] Applied 3 hooks
+[2022-03-26 23:56:13.971] [modengine] [info] Starting worker thread
+[2022-03-26 23:56:48.119] [modengine] [info] Destroying
+[2022-03-26 23:56:48.119] [modengine] [info] Destroying
+[2022-03-26 23:56:48.119] [modengine] [info] Destroying
+[2022-03-26 23:56:48.119] [modengine] [info] Destroying
+[2022-03-26 23:56:48.119] [modengine] [info] Destroying
+[2022-03-26 23:56:48.119] [modengine] [info] Destroying
+[2022-03-26 23:56:48.119] [modengine] [info] Destroying
+[2022-03-26 23:56:48.119] [modengine] [info] Destroying
+[2022-03-26 23:56:48.119] [modengine] [info] Destroying
+[2022-03-26 23:56:48.127] [modengine] [info] Destroying
