@@ -1,4 +1,4 @@
-Update 1.2.1 Auto-Update patch note:
+Update 1.2.2 Auto-Update patch note:
 --------------------------------
 Việt hoá qua tool auto update bản dịch mới nhất, bản việt hoá sử dụng modengine nên không tăng dung lượng game do việc giải nén
 -----------------
