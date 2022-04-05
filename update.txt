@@ -1,0 +1,16 @@
+Update 1.2.2 Auto-Update patch note:
+--------------------------------
+Việt hoá qua tool auto update bản dịch mới nhất, bản việt hoá sử dụng modengine nên không tăng dung lượng game do việc giải nén
+-----------------
+NỘI DUNG CẬP NHẬT
+-----------------
+Fix lỗi dịch Menu : Rena + Tèo Em
+Fix lỗi NpcName : Rena
+Fix lỗi BloodMsg : Tèo Em
+--------------------------------
+Ver: hỗ trợ ver 1.02.1 đếm 1.03.2
+--------------------------------
+Để tránh tình trạng lỗi không chạy việt hoá bạn hãy tải và cài bộ thư viện c++ repack này về
+https://usersdrive.com/9myrxy741lla.html hoặc https://veryfiles.com/0u8wzzrjkafg
+--------------------------------
+Tool by Rena
