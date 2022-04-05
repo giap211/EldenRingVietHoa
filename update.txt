@@ -4,6 +4,7 @@ Việt hoá qua tool auto update bản dịch mới nhất, bản việt hoá s�
 -----------------
 NỘI DUNG CẬP NHẬT
 -----------------
+Cập nhật đổi server github
 Fix lỗi dịch Menu : Rena + Tèo Em
 Fix lỗi NpcName : Rena
 Fix lỗi BloodMsg : Tèo Em
