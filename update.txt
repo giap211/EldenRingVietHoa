@@ -2,7 +2,8 @@ Update 1.4 Auto-Update patch note:
 -----------------
 NỘI DUNG CẬP NHẬT
 -----------------
-Fix một số từ tại bản đồ : Rena
+Fix thoại nhân vật : Rena
+Cập nhật song ngữ Anh Việt : Rena
 --------------------------------
 Ver: hỗ trợ ver 1.02.1 đếm 1.04
 --------------------------------
