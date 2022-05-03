@@ -1,10 +1,10 @@
-Update 1.5 Auto-Update patch note:
------------------
-NỘI DUNG CẬP NHẬT
------------------
-Fix thoại nhân vật : Rena
-Cập nhật song ngữ Anh Việt : Rena
---------------------------------
-Ver: hỗ trợ ver 1.02.1 đếm 1.04
---------------------------------
-Tool by Rena
+  Update 1.5 Auto-Update patch note:
+  -----------------
+  NỘI DUNG CẬP NHẬT
+  -----------------
+  Fix thoại nhân vật : Rena
+  Cập nhật song ngữ Anh Việt : Rena
+  --------------------------------
+  Ver: hỗ trợ ver 1.02.1 đếm 1.04
+  --------------------------------
+  Tool by Rena
