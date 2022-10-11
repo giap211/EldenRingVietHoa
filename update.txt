@@ -5,7 +5,7 @@
   Fix thoại nhân vật : Rena
   Cập nhật song ngữ Anh Việt : Rena
   --------------------------------
-  Ver: hỗ trợ ver 1.02.1 đếm 1.6
+  Ver: hỗ trợ ver 1.02.1 đến 1.6
   --------------------------------
   Tool by Rena
   My nexusmod: https://www.nexusmods.com/users/134410108
